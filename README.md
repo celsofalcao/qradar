@@ -26,12 +26,14 @@ O foco principal era ingerir e analisar logs de diversas fontes de eventos como:
 
 
 ![image](https://github.com/celsofalcao/qradar/assets/162662857/5358aa83-8e4c-4b1f-a400-cf9184f31e67)
+
 *Img 2: Dashboard*
 
 
 ![image](https://github.com/celsofalcao/qradar/assets/162662857/653232c4-ccb1-4cec-82c7-8ed942f1a6ca)
+
 *Img 3: Investigação de Alertas*
 
-
 ![image](https://github.com/celsofalcao/qradar/assets/162662857/0aeb20fe-a9c4-4510-b545-5b60ea0e11c1)
+
 *Img 4: Investigação Detalahada*
