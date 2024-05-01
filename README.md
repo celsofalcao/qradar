@@ -1,9 +1,5 @@
 # IBM Security QRadar SIEM
-
 ![image](https://github.com/celsofalcao/qradar/assets/162662857/b57fee89-41b5-414d-b179-6cd9a2a42409)
-
-
-
 
 ## Objetivo
 
@@ -26,14 +22,14 @@ O foco principal era ingerir e analisar logs de diversas fontes de eventos como:
 
 ## Passos
 
-![image](https://github.com/celsofalcao/insightidr/assets/162662857/6355eb0b-afa8-4fbd-8288-4093747d0dbb)
-*Img 1: Fluxograma de Dados*
+![image](https://github.com/celsofalcao/qradar/assets/162662857/8b6fd97d-4d5e-4286-bdb0-27f2cfdc288f)
+*Img 1: Arquittetura QRadar*
 
-![image](https://github.com/celsofalcao/insightidr/assets/162662857/926cff94-9054-4d1a-9dd5-0d1810f87586)
-*Img 2: Dashboard Principal*
+![image](https://github.com/celsofalcao/qradar/assets/162662857/5358aa83-8e4c-4b1f-a400-cf9184f31e67)
+*Img 2: Dashboard*
 
-![image](https://github.com/celsofalcao/insightidr/assets/162662857/88b3b267-1caf-43f4-93ed-457025e9da65)
-*Img 3: Investigação Detalahada*
+![image](https://github.com/celsofalcao/qradar/assets/162662857/653232c4-ccb1-4cec-82c7-8ed942f1a6ca)
+*Img 3: Investigação de Alertas*
 
-![image](https://github.com/celsofalcao/insightidr/assets/162662857/a7c414a8-a240-4c22-be71-b154f22c381f)
-*Img 4: Configuração de Regras*
+![image](https://github.com/celsofalcao/qradar/assets/162662857/0aeb20fe-a9c4-4510-b545-5b60ea0e11c1)
+*Img 4: Investigação Detalahada*
