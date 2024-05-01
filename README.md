@@ -22,6 +22,7 @@ O foco principal era ingerir e analisar logs de diversas fontes de eventos como:
 ## Passos
 
 ![image](https://github.com/celsofalcao/qradar/assets/162662857/8b6fd97d-4d5e-4286-bdb0-27f2cfdc288f)
+
 *Img 1: Arquittetura QRadar*
 
 
